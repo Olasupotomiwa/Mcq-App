@@ -32,7 +32,7 @@ const scoreSpan =  document.querySelector("#score");
 const buttonNext = document.querySelector(".button-next");
 const quizStopElement = document.querySelector(".container");
 const Submit = document.querySelector(".submit-btn");
-const roller =  document.querySelector('.lds-roller')
+
 
 
 
