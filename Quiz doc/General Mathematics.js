@@ -5,17 +5,6 @@
 //June 29th 2022
 //08076312290
 
-//Function to display loader before loading the actual content
-var myVar;
-
-function myloader() {
-  myVar = setTimeout(showPage, 2000);
-}
-
-function showPage() {
-  document.querySelector(".lds-ellipsis").style.display = "none";
-  document.getElementById("myDiv").style.display = "block";
-}
 
 
 
