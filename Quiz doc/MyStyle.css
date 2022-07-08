@@ -259,8 +259,8 @@ scroll-behavior: smooth;}
         margin-top: 7%;
     }
     .container{
-        width: 98vw;
-        height: 95vh;
+        width: 95vw;
+        height: 95%;
     }
     .answers-button{
         margin: 5px auto;
