@@ -92,7 +92,7 @@ answers: [{text: 'illegal', isAnswer:false}, {text: 'illegitimate', isAnswer:tru
 
 
     {question: 'Whenever we discuss physics, Ali is in his elements means..',
-    answers: [{text: 'does not like physics', isAnswer:false}, {text: 'hate discussing physics', isAnswer:false}, {text: 'enjoys physics', isAnswer:false},
+    answers: [{text: 'does not like physics', isAnswer:false}, {text: 'hate discussing physics', isAnswer:false}, {text: 'indifferent to physics', isAnswer:false},
      {text: 'enjoys physics', isAnswer:true}] 
     },
 
@@ -139,7 +139,7 @@ answers: [{text: 'illegal', isAnswer:false}, {text: 'illegitimate', isAnswer:tru
     },
 
     {question: '.... of the players is to receive a gift of 1m',
-    answers: [{text: 'some', isAnswer:false}, {text: 'all', isAnswer:false}, {text: 'evevry', isAnswer:false},
+    answers: [{text: 'some', isAnswer:false}, {text: 'all', isAnswer:false}, {text: 'every', isAnswer:false},
      {text: 'each', isAnswer:true}] 
     },
 
