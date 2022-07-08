@@ -10,8 +10,8 @@
 //Function to display loader before loading the actual content
 var myVar;
 
-//function myloader() {
- // myVar = setTimeout(showPage, 2000);
+function myloader() {
+ myVar = setTimeout(showPage, 20);
 }
 
 function showPage() {
