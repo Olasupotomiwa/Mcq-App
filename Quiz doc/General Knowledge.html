@@ -1,0 +1,103 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General Knowledge</title>
+    <link rel="icon" type="image/x-icon" href="Quiz Images/Pencil_15px.png">
+    <link rel="stylesheet" type="text/css" href="bootstrap-5.2.0-beta1-dist/css/bootstrap.min.css">
+     <link rel="stylesheet" href="MyStyle.css">
+     <link rel="stylesheet" href="bootstrap-icons-1.8.3/bootstrap-icons.css">
+  <script type="text/javascript" src="bootstrap-5.2.0-beta1-dist/js/bootstrap.bundle.min.js"></script>
+  <style>
+    body{
+    background-image: linear-gradient(rgba(6, 60, 96, 0.2) 0%, rgba(6, 60, 96, 0.8) ), url("Quiz Images/woman writing.jpg");
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+  </style>
+</head>
+
+
+
+<body onload="myloader()">
+
+    <div class="lds-ellipsis"> <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+<div id="myDiv" class="animate-bottom">
+
+    <!--Welcome page-->
+    <div class="welcome display-1">
+        <p>welcome ! <br>
+          Take the Quiz </p>
+           <button class="buttonStart">Start </button>
+           
+  
+    </div>
+
+
+    <!--Quiz Container-->
+    <div class="container animate-bottom">
+        <div class="header">
+            <p> Subject: Gen. Knowledge </p> 
+        
+        </div>
+
+        <div class="quiz-header">
+
+            <!--Question Progress-->
+            <p id="progress"></p>
+             
+           
+            <p class="countdown"></p>
+           
+        </div>
+       
+       <hr style="color: white;">
+
+       <!--DIV for question -->
+        <div class="questions">
+            <p class="question">WHAT IS YOUR NAME</p>
+
+        </div>
+        
+        <!--DIV for question options-->
+        <div class="answers">
+           </div>
+           <div class="footerbtn">
+        <button class="submit-btn">Submit</button>
+        <button class="button-next">Next <i class="bi bi-caret-right"></i></button>
+            </div>
+      
+
+       
+        <hr style="color: white;">
+        <strong style="color: white;">Built By Tomiwa Olasupo</strong>
+        <p class="score" style="display: none;"><span id="score">0</span> out of 5</p>
+
+
+
+
+       
+    </div>
+</div>
+
+<div class="lds-roller" style="display: none;"> <div></div><div></div><div></div><div></div><div></div>
+                                                                      <div></div><div></div><div></div></div>
+
+
+   
+
+<script src="General Knowledge.js">
+
+
+  
+  
+</script>
+</body>
+</html>
