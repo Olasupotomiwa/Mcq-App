@@ -379,7 +379,7 @@ scroll-behavior: smooth;
 @media screen and (max-width: 700px){
     .Calc-container{
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 0;
     z-index: 9;
     width: 250px;
