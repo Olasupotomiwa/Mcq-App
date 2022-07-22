@@ -36,7 +36,7 @@ The next button on the app allows users to proceed while the submit button end t
 *Depending on the selected area of interest, a calculator was also designed to be used. It was programmed to be shown at the top left corner on large screens so as to avoid it overlaying the live countdown, bottom left corner on small screens to allow users view the question while being used.
 The quiz ends when the allotted time lapse.
 
-Click [here](https://olasupotomiwa.github.io/Mcq-App/Quiz doc) to use the App.
+Click [here](https:/https://olasupotomiwa.github.io/Mcq-App/Quiz%20doc/) to use the App.
 
 
 ## Challenges
