@@ -15,9 +15,7 @@
 
 ## Description
 
-```md 
-  ![App2](https://user-images.githubusercontent.com/97839385/180414900-6f03a35d-68ad-4d14-93f1-0485550309cd.png)
-```
+
 
 
 -This project is a Multiple Choice Question Web-application which allow users to put their knowledge to test on a particular area of interest like Use of English, Mathematics, General Knowledge etc
