@@ -6,7 +6,7 @@ html{
 *{box-sizing: border-box;
 user-select: none;
 scroll-behavior: smooth;
-font-family: 'Noto Sans Display', sans-serif;
+
 }
 
 
@@ -205,6 +205,7 @@ font-family: 'Noto Sans Display', sans-serif;
     font-size: 3vmin;
     color: white;
     z-index: 9;
+    font-family: 'Noto Sans Display', sans-serif;
  }
 
  .last-output p{
