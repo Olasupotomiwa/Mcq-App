@@ -128,7 +128,7 @@ font-family: 'Noto Sans Display', sans-serif;
     color: #063c60;
     outline: none;
      width: 40%;
- 
+      padding: 10px;
   border-radius: 4px;
     border: none;
     font-weight: bold;
@@ -142,7 +142,7 @@ font-family: 'Noto Sans Display', sans-serif;
 
 .button-next{
     width: 40%;
-    padding: 4px 12px;
+    padding: 10px;
     border-radius: 4px;
     font-size: 2.5vmin;
     border: none;
