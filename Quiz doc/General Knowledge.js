@@ -199,7 +199,7 @@ const questions = [
 let questionIndex = 0;
 
 //To display the questions rrandomly
-let firstQuestion =  Math.floor(Math.random() * 25)
+let firstQuestion =  Math.floor(Math.random() * questions.length)
 let nextQuestion = firstQuestion
 
 //Calling the variable for score and score when converted into percent
