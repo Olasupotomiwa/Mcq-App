@@ -1,4 +1,4 @@
-//Update only questions, random* no of questions options and the desired time. Other function like scores [percent]and  question progress has been taken care of;
+//Update only questions and the desired time. Other function like scores [percent]and  question progress has been taken care of;
 //will update automatically
 
 //Tomiwa Olasupo
@@ -222,7 +222,7 @@ answers: [{text: 'illegal', isAnswer:false}, {text: 'illegitimate', isAnswer:tru
 let questionIndex = 0;
 
 //To display the questions rrandomly
-let firstQuestion =  Math.floor(Math.random() * 30)
+let firstQuestion =  Math.floor(Math.random() * questions.length)
 let nextQuestion = firstQuestion
 
 //Calling the variable for score and score when converted into percent
