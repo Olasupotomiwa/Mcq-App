@@ -1,4 +1,4 @@
-//Update only questions, random* no of questions, options and the desired time. Other function like scores [percent]and  question progress has been taken care of;
+//Update only questions and the desired time. Other function like scores [percent]and  question progress has been taken care of;
 //will update automatically
 //Read only!!!
 //Tomiwa Olasupo
